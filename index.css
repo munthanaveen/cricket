@@ -1,0 +1,44 @@
+.bg-container{
+    background-color: 	#525252;
+    height: 280vh;
+    width: 100vw;
+}
+.heading{
+    font-family: monospace;
+    color:whitesmoke;
+    font-size: 20px;
+    text-align: center;
+    text-transform: 2rem;
+    padding: 20px;
+    font-weight: bolder;
+    text-decoration: solid;
+    text-decoration: underline;
+}
+.Card{
+    height: 500px;
+    width: 400px;
+    background-color:#000080;
+    border-radius:20px;
+    margin: 20px;
+}
+.image{
+    height:300px;
+    width: 350px;
+    padding: 30px;
+    border-radius:30px;
+}
+.card-title{
+    font-size: 20px;
+    font-family: sans-serif;
+    color:#daa520;
+    text-decoration: underline;
+    text-align: center;
+}
+.card-paragraph{
+    font-size: 15px;
+    font-family: sans-serif;
+    color:#daa520;
+    text-decoration: underline;
+    text-align: center;
+    padding: 10px;
+}
